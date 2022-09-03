@@ -1,1 +1,3 @@
-# js-slider
+# SliderJS
+
+Slider project made with JS.
