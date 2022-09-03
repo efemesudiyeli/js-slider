@@ -1,0 +1,14 @@
+.fa-circle-left, .fa-circle-right {
+    cursor: pointer;
+}
+
+.card-img-top {
+    width: 300px;
+    height: 200px;
+    
+}
+
+body, html {
+    height: 100vh;
+    
+}
